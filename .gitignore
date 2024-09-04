@@ -58,5 +58,3 @@ publish/
 
 *.exe
 # Ignore build results
-bin/
-obj/
