@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var request = Context.Request;
+    var url = $"{request.Scheme}://{request.Host}{request.Path}";
+    var port = request.Host.Port.HasValue ? request.Host.Port.Value.ToString() : "default port";
+}
+
+<div class="text-center">
+    <h1 class="display-4 mt-5">Welcome to the DevOps Training Center</h1>
+    <h1 class="text-primary mt-5">ASP.Net CORE (MVC)</h1>
+    <h3 class="text-primary mt-5">Url: @url</h3>
+    <h3 class="text-primary mt-2">Port: @port</h3>
+</div>
