@@ -23,13 +23,6 @@ Before you dive in, make sure you have the following installed on your machine:
 - [.NET SDK 8.0](https://dotnet.microsoft.com/download) (the latest version)
 - A code editor of your choice (e.g., [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/))
 
-## Getting Started
-
-1. **Clone the Repository**: Start by cloning the project repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/DevOps_AspNetCore_Sample.git
-   cd DevOps_AspNetCore_Sample
 
 ## Getting Started
 
