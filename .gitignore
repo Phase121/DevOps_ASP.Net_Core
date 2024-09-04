@@ -57,5 +57,4 @@ packages/
 publish/
 
 *.exe
-*.dll
-
+bin/
