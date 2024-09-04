@@ -42,7 +42,7 @@ packages/
 # Logs
 *.log
 
-# Temporary files
+# Terary files
 *.tmp
 *.temp
 *.cache
