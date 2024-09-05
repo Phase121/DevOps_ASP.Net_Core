@@ -1,7 +1,8 @@
 
 # DevOps ASP.NET Core Sample Project
 
-Welcome to the **DevOps ASP.NET Core Sample Project**! This project serves as a demonstration of how to create a web application using ASP.NET Core 8. In this README, you'll find instructions on how to set up the project, run it locally, and publish it on both Windows and Linux.
+Welcome to the **DevOps ASP.NET Core Sample Project**!
+This project serves as a demonstration of how to create a web application using ASP.NET Core 8. In this README, you'll find instructions on how to set up the project, run it locally, and publish it on both Windows and Linux.
 
 ## Table of Contents
 
