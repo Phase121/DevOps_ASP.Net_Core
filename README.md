@@ -1,4 +1,3 @@
-Sure! Below is the updated `README.md` file for your project named `DevOps_AspNetCore_Sample`, with the .NET Core version set to 8. The text has been made more human-readable and friendly.
 
 # DevOps ASP.NET Core Sample Project
 
